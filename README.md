@@ -10,5 +10,5 @@ $ git init
 # Sets up the necessary Git files
 Initialized empty Git repository in /Users/your/George-and-Marthas/.git/
 
-$touch README
+$ touch README
 # Creates a file called "README" in your George-and-Marthas directory
