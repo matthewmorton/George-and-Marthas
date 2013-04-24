@@ -12,3 +12,5 @@ Initialized empty Git repository in /Users/your/George-and-Marthas/.git/
 
 $ touch README
 # Creates a file called "README" in your George-and-Marthas directory
+
+Hello World!
